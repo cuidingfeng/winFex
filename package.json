@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fex-team/yog2.git"
+    "url": "https://github.com/cuidingfeng/winFex.git"
   },
-  "author": "fis@baidu.com",
+  "author": "admin@baiketupu.com",
   "license": "BSD",
   "dependencies": {
     "lodash": "2.4.1",
